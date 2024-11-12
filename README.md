@@ -156,6 +156,8 @@ void loop() {
 ## Results
 
 The project successfully demonstrated the concept of generating electricity from footsteps using piezoelectric sensors. Each step generates a small voltage, and the system efficiently stores the energy in a rechargeable battery. The step count and voltage are displayed on the LCD in real-time.
+![WhatsApp Image 2024-11-10 at 14 12 33 (1)](https://github.com/user-attachments/assets/c3e59f99-92d9-4a94-a120-09db90f80332)
+
 
 ### Observations:
 - The voltage output from individual sensors was small, but with multiple sensors, the system generated enough energy to power small devices.
