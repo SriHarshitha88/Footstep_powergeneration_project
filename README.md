@@ -131,3 +131,22 @@ void loop() {
   lcd.print("mV ");
   delay(200);
 }
+## Results
+
+The project successfully demonstrated the concept of generating electricity from footsteps using piezoelectric sensors. Each step generates a small voltage, and the system efficiently stores the energy in a rechargeable battery. The step count and voltage are displayed on the LCD in real-time.
+
+### Observations:
+- The voltage output from individual sensors was small, but with multiple sensors, the system generated enough energy to power small devices.
+- The efficiency of the system increased with more foot traffic, showing the potential of this energy harvesting method in urban areas.
+
+## References
+
+- [Generation of Electricity Using Footstep Power](https://www.scitechnol.com/peer-review/generation-of-electricity-using-footstep-power-z0Uo.php?article_id=19806)
+- [How Piezoelectric Sensors Work](https://www.americanpiezo.com/blog/how-piezoelectric-sensors-work/#:~:text=A%20piezoelectric%20sensor%20sends%20a,that%20enables%20a%20signal%20output.)
+- [Footstep Power Generation System - Instructables](https://www.instructables.com/ADVANCED-FOOTSTEP-POWER-GENERATION-SYSTEM/)
+- [IEEE Paper on Piezoelectric Power Generation](https://ieeexplore.ieee.org/document/8275890)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
